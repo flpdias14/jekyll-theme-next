@@ -73,6 +73,8 @@ plugins:
  - jemoji
  - jekyll-sitemap
  - jekyll-feed
+ - jekyll-twitter-plugin
+
 
 # ---------------------------------------------------------------
 # Site Information Settings
@@ -211,14 +213,14 @@ font:
 # ---------------------------------------------------------------
 # Sidebar Settings
 # ---------------------------------------------------------------
-twitter_username: flpdias14
+twitter_username: F3D10L
 
 # Social Links
 # Key is the link label showing to end users.
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   GitHub: https://github.com/flpdias14
-  Twitter: https://twitter.com/flpdias14
+  Twitter: https://twitter.com/F3D10L
 
 
 # Social Links Icons
